@@ -6,13 +6,3 @@ distribution = "2201.13.3"
 
 [build-options]
 observabilityIncluded = true
-
-[[dependency]]
-org = "ballerina"
-name = "auth"
-version = "2.15.0"
-
-[[dependency]]
-org = "ballerina"
-name = "crypto"
-version = "2.9.0"
