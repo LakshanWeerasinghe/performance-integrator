@@ -2,7 +2,7 @@
 org = "tharmigan"
 name = "bi_passthrough"
 version = "0.1.0"
-distribution = "2202.13.1"
+distribution = "2201.13.3"
 
 [build-options]
 observabilityIncluded = true
